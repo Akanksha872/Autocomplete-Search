@@ -1,4 +1,3 @@
-import { EMPTY, NEVER } from 'rxjs';
 import { addElementToDOM } from './dom-manipulation';
 
 export const form = document.getElementById('fetch-form');
